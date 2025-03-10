@@ -1,2 +1,2 @@
 # java-functional
-Exercises in Java with functional programming 
+Example in Java with functional programming 
