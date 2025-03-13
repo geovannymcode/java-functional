@@ -1,0 +1,401 @@
+{
+  "people": [
+    {
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "name": "María",
+      "lastName": "González",
+      "age": 32,
+      "birthDate": "1993-04-15",
+      "email": "maria.gonzalez@example.com",
+      "phoneNumber": "+34 612345678",
+      "gender": "FEMALE",
+      "address": {
+        "street": "Calle Mayor 23",
+        "city": "Madrid",
+        "state": "Madrid",
+        "zipCode": "28001",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Seat",
+          "model": "Ibiza",
+          "year": 2018,
+          "licensePlate": "1234 ABC"
+        }
+      ]
+    },
+    {
+      "id": "38e5a7bc-e3fe-4ef5-b1d2-c7b3e4d5f6a7",
+      "name": "Carlos",
+      "lastName": "Rodríguez",
+      "age": 45,
+      "birthDate": "1980-08-22",
+      "email": "carlos.rodriguez@example.com",
+      "phoneNumber": "+34 687654321",
+      "gender": "MALE",
+      "address": {
+        "street": "Avenida Diagonal 456",
+        "city": "Barcelona",
+        "state": "Cataluña",
+        "zipCode": "08006",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Audi",
+          "model": "A4",
+          "year": 2020,
+          "licensePlate": "5678 DEF"
+        },
+        {
+          "brand": "BMW",
+          "model": "X1",
+          "year": 2022,
+          "licensePlate": "9012 GHI"
+        }
+      ]
+    },
+    {
+      "id": "c5f3a6d2-8b7e-4c9a-b0d1-e2f3a4b5c6d7",
+      "name": "Ana",
+      "lastName": "Martínez",
+      "age": 28,
+      "birthDate": "1997-12-03",
+      "email": "ana.martinez@example.com",
+      "phoneNumber": "+34 654789123",
+      "gender": "FEMALE",
+      "address": {
+        "street": "Plaza España 7",
+        "city": "Sevilla",
+        "state": "Andalucía",
+        "zipCode": "41001",
+        "country": "España"
+      },
+      "cars": []
+    },
+    {
+      "id": "d4e5f6a7-b8c9-4d0e-a1b2-c3d4e5f6a7b8",
+      "name": "Juan",
+      "lastName": "López",
+      "age": 52,
+      "birthDate": "1973-05-18",
+      "email": "juan.lopez@example.com",
+      "phoneNumber": "+34 612378945",
+      "gender": "MALE",
+      "address": {
+        "street": "Calle San Jerónimo 12",
+        "city": "Valencia",
+        "state": "Valencia",
+        "zipCode": "46001",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Toyota",
+          "model": "Corolla",
+          "year": 2019,
+          "licensePlate": "3456 JKL"
+        }
+      ]
+    },
+    {
+      "id": "e5f6a7b8-c9d0-4e1f-a2b3-c4d5e6f7a8b9",
+      "name": "Lucía",
+      "lastName": "Fernández",
+      "age": 31,
+      "birthDate": "1994-02-27",
+      "email": "lucia.fernandez@example.com",
+      "phoneNumber": "+34 645123789",
+      "gender": "FEMALE",
+      "address": {
+        "street": "Rúa Nova 34",
+        "city": "Santiago de Compostela",
+        "state": "Galicia",
+        "zipCode": "15701",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Volkswagen",
+          "model": "Golf",
+          "year": 2021,
+          "licensePlate": "7890 MNO"
+        }
+      ]
+    },
+    {
+      "id": "f6a7b8c9-d0e1-4f2g-a3b4-c5d6e7f8a9b0",
+      "name": "Miguel",
+      "lastName": "García",
+      "age": 39,
+      "birthDate": "1986-11-09",
+      "email": "miguel.garcia@example.com",
+      "phoneNumber": "+34 678912345",
+      "gender": "MALE",
+      "address": {
+        "street": "Gran Vía 78",
+        "city": "Bilbao",
+        "state": "País Vasco",
+        "zipCode": "48001",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Renault",
+          "model": "Megane",
+          "year": 2017,
+          "licensePlate": "1234 PQR"
+        },
+        {
+          "brand": "Ford",
+          "model": "Focus",
+          "year": 2022,
+          "licensePlate": "5678 STU"
+        }
+      ]
+    },
+    {
+      "id": "a7b8c9d0-e1f2-4g3h-a4b5-c6d7e8f9a0b1",
+      "name": "Elena",
+      "lastName": "Sánchez",
+      "age": 27,
+      "birthDate": "1998-07-14",
+      "email": "elena.sanchez@example.com",
+      "phoneNumber": "+34 654321987",
+      "gender": "FEMALE",
+      "address": {
+        "street": "Calle Toledo 45",
+        "city": "Málaga",
+        "state": "Andalucía",
+        "zipCode": "29001",
+        "country": "España"
+      },
+      "cars": []
+    },
+    {
+      "id": "b8c9d0e1-f2g3-4h5i-a6b7-c8d9e0f1a2b3",
+      "name": "David",
+      "lastName": "Pérez",
+      "age": 41,
+      "birthDate": "1984-03-29",
+      "email": "david.perez@example.com",
+      "phoneNumber": "+34 619283746",
+      "gender": "MALE",
+      "address": {
+        "street": "Paseo de la Castellana 123",
+        "city": "Madrid",
+        "state": "Madrid",
+        "zipCode": "28046",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Mercedes",
+          "model": "C-Class",
+          "year": 2020,
+          "licensePlate": "9012 VWX"
+        }
+      ]
+    },
+    {
+      "id": "c9d0e1f2-g3h4-4i5j-a7b8-c9d0e1f2a3b4",
+      "name": "Carmen",
+      "lastName": "Jiménez",
+      "age": 35,
+      "birthDate": "1990-12-10",
+      "email": "carmen.jimenez@example.com",
+      "phoneNumber": "+34 634567891",
+      "gender": "FEMALE",
+      "address": {
+        "street": "Avenida de la Constitución 67",
+        "city": "Sevilla",
+        "state": "Andalucía",
+        "zipCode": "41001",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Hyundai",
+          "model": "i30",
+          "year": 2019,
+          "licensePlate": "3456 YZA"
+        }
+      ]
+    },
+    {
+      "id": "d0e1f2g3-h4i5-4j6k-a8b9-c0d1e2f3a4b5",
+      "name": "Javier",
+      "lastName": "Moreno",
+      "age": 33,
+      "birthDate": "1992-09-05",
+      "email": "javier.moreno@example.com",
+      "phoneNumber": "+34 689012345",
+      "gender": "MALE",
+      "address": {
+        "street": "Calle Recogidas 29",
+        "city": "Granada",
+        "state": "Andalucía",
+        "zipCode": "18001",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Opel",
+          "model": "Corsa",
+          "year": 2018,
+          "licensePlate": "7890 BCD"
+        }
+      ]
+    },
+    {
+      "id": "e1f2g3h4-i5j6-4k7l-a9b0-c1d2e3f4a5b6",
+      "name": "Raquel",
+      "lastName": "Alonso",
+      "age": 29,
+      "birthDate": "1996-01-25",
+      "email": "raquel.alonso@example.com",
+      "phoneNumber": "+34 645678912",
+      "gender": "FEMALE",
+      "address": {
+        "street": "Calle del Coso 42",
+        "city": "Zaragoza",
+        "state": "Aragón",
+        "zipCode": "50001",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Kia",
+          "model": "Sportage",
+          "year": 2021,
+          "licensePlate": "1234 EFG"
+        }
+      ]
+    },
+    {
+      "id": "f2g3h4i5-j6k7-4l8m-a0b1-c2d3e4f5a6b7",
+      "name": "Antonio",
+      "lastName": "Gutiérrez",
+      "age": 48,
+      "birthDate": "1977-06-08",
+      "email": "antonio.gutierrez@example.com",
+      "phoneNumber": "+34 621098765",
+      "gender": "MALE",
+      "address": {
+        "street": "Alameda Principal 15",
+        "city": "Málaga",
+        "state": "Andalucía",
+        "zipCode": "29001",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Peugeot",
+          "model": "3008",
+          "year": 2017,
+          "licensePlate": "5678 HIJ"
+        },
+        {
+          "brand": "Citroën",
+          "model": "C4",
+          "year": 2022,
+          "licensePlate": "9012 KLM"
+        }
+      ]
+    },
+    {
+      "id": "g3h4i5j6-k7l8-4m9n-a1b2-c3d4e5f6a7b8",
+      "name": "Isabel",
+      "lastName": "Ruiz",
+      "age": 37,
+      "birthDate": "1988-04-19",
+      "email": "isabel.ruiz@example.com",
+      "phoneNumber": "+34 678234567",
+      "gender": "FEMALE",
+      "address": {
+        "street": "Calle Betis 23",
+        "city": "Sevilla",
+        "state": "Andalucía",
+        "zipCode": "41010",
+        "country": "España"
+      },
+      "cars": []
+    },
+    {
+      "id": "h4i5j6k7-l8m9-4n0o-a2b3-c4d5e6f7a8b9",
+      "name": "Francisco",
+      "lastName": "Díaz",
+      "age": 43,
+      "birthDate": "1982-10-31",
+      "email": "francisco.diaz@example.com",
+      "phoneNumber": "+34 612345987",
+      "gender": "MALE",
+      "address": {
+        "street": "Calle Ancha 56",
+        "city": "Cádiz",
+        "state": "Andalucía",
+        "zipCode": "11001",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Nissan",
+          "model": "Qashqai",
+          "year": 2019,
+          "licensePlate": "3456 NOP"
+        }
+      ]
+    },
+    {
+      "id": "i5j6k7l8-m9n0-4o1p-a3b4-c5d6e7f8a9b0",
+      "name": "Laura",
+      "lastName": "Hernández",
+      "age": 30,
+      "birthDate": "1995-08-17",
+      "email": "laura.hernandez@example.com",
+      "phoneNumber": "+34 634567890",
+      "gender": "FEMALE",
+      "address": {
+        "street": "Avenida de la Libertad 78",
+        "city": "San Sebastián",
+        "state": "País Vasco",
+        "zipCode": "20004",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Mini",
+          "model": "Cooper",
+          "year": 2020,
+          "licensePlate": "7890 QRS"
+        }
+      ]
+    },
+    {
+      "id": "j6k7l8m9-n0o1-4p2q-a4b5-c6d7e8f9a0b1",
+      "name": "Manuel",
+      "lastName": "Torres",
+      "age": 36,
+      "birthDate": "1989-03-12",
+      "email": "manuel.torres@example.com",
+      "phoneNumber": "+34 687654321",
+      "gender": "MALE",
+      "address": {
+        "street": "Calle Princesa 90",
+        "city": "Madrid",
+        "state": "Madrid",
+        "zipCode": "28008",
+        "country": "España"
+      },
+      "cars": [
+        {
+          "brand": "Mazda",
+          "model": "CX-30",
+          "year": 2021,
+          "licensePlate": "1234 TUV"
+        }
+      ]
+    }
+  ]
+}
