@@ -27,11 +27,11 @@
     },
     {
       "id": "38e5a7bc-e3fe-4ef5-b1d2-c7b3e4d5f6a7",
-      "name": "Carlos",
-      "lastName": "Rodríguez",
+      "name": "Omar",
+      "lastName": "Berroteran",
       "age": 45,
       "birthDate": "1980-08-22",
-      "email": "carlos.rodriguez@example.com",
+      "email": "omar.berroteran@example.com",
       "phoneNumber": "+34 687654321",
       "gender": "MALE",
       "address": {
